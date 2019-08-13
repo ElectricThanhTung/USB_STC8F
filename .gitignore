@@ -1,0 +1,10 @@
+*.obj
+*.htm
+*.lnp
+*.SBR
+*.__i
+*.uvopt
+*.uvgui.*
+
+USB_STC8F_V2/Listings
+USB_STC8F_V2/Objects/STC8_USB
